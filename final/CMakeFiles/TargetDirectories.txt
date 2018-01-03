@@ -1,0 +1,4 @@
+/home/pi/Desktop/final/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/final/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/final/CMakeFiles/qr_video.dir
+/home/pi/Desktop/final/CMakeFiles/qr_image.dir

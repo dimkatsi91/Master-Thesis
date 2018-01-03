@@ -1,0 +1,18 @@
+#!/bin/bash
+truncate -s 0 log.txt
+clear
+printf "\n"
+exec &>>log.txt
+
+raspistill -o qr.png -w 320 -h 240
+
+cd /home/pi/Desktop/final
+./qr_image /home/pi/Desktop/qr.png
+
+#make 2>&1 | tee /home/pi/Desktop/log.txt
+
+cd ..
+
+rm qr.png
+
+$SHELL
