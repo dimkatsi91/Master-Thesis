@@ -3,7 +3,7 @@ MSc "Electronics & Information Processing", University of Patras, Greece
 Period: 2016 November - 2017 June
 MSc Thesis URL for PDF free download: http://nemertes.lis.upatras.gr/jspui/handle/10889/10691
 
-Master Thesis: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
+Master Thesis Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
 
 -----------------------------------------------------------------------------------------------------------------------------
 Electronics and Information Processing Master Thesis @ University of Patras
