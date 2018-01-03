@@ -1,4 +1,4 @@
-# QR_decode_MSc_Thesis
+# QR_decode
 MSc "Electronics & Information Processing", University of Patras, Greece
 Period: 2016 November - 2017 June
 MSc Thesis URL for PDF free download: http://nemertes.lis.upatras.gr/jspui/handle/10889/10691
