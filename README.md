@@ -1,6 +1,6 @@
 # Master-Thesis
------------------------------------------------------------------------------------------------------------------------------
-MSc "Electronics & Information Processing", University of Patras, Greece
+ 
+ MSc "Electronics & Information Processing", University of Patras, Greece
 
 Period: 2016 November - 2017 June
 
