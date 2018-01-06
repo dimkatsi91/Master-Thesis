@@ -1,4 +1,4 @@
-# QR_decode
+# Master-Thesis
 -----------------------------------------------------------------------------------------------------------------------------
 MSc "Electronics & Information Processing", University of Patras, Greece
 
@@ -8,7 +8,7 @@ MSc Thesis URL for PDF free download: http://nemertes.lis.upatras.gr/jspui/handl
 
 Master Thesis Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
 
-Description URL: https://dimkatsi91.github.io/QR_decode/
+Description URL: https://dimkatsi91.github.io/Master-Thesis/ 
 
 -----------------------------------------------------------------------------------------------------------------------------
 Electronics and Information Processing Master Thesis @ University of Patras
