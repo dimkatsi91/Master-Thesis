@@ -1,13 +1,22 @@
 # QR_decode
 -----------------------------------------------------------------------------------------------------------------------------
 MSc "Electronics & Information Processing", University of Patras, Greece
+
 Period: 2016 November - 2017 June
+
 MSc Thesis URL for PDF free download: http://nemertes.lis.upatras.gr/jspui/handle/10889/10691
 
 Master Thesis Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
 
+Description URL: https://dimkatsi91.github.io/QR_decode/
+
 -----------------------------------------------------------------------------------------------------------------------------
 Electronics and Information Processing Master Thesis @ University of Patras
+
+Barcodes technology is used for data encoding in many fields for quite some time now. Barcodes are divided in two main categories, 
+one dimensional codes and two dimensional codes. One case of 2D barcodes are called QR codes, which allow information encoding in 
+a two dimensional matrix (2D barcodes). The main feature that has made QR codes replace one dimensional barcodes is the error
+correction capability, since they make use of Reed Solomon error correction theory. 
 
 The purpose of this master thesis was the study, design and implementation of a digital processing system for QR bar-codes
 decoding based on Denso Wave's standard ISO/IEC 18004. The QR bar-code decoder essentially is an R-S decoder, meaning a 
