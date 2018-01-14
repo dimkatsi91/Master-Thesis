@@ -11,7 +11,7 @@
 - [GitHub site](https://dimkatsi91.github.io/Master-Thesis/)
 
 -----------------------------------------------------------------------------------------------------------------------------
-<h3>Electronics and Information Processing Master Thesis @ University of Patras</h3>
+<h2>Electronics and Information Processing Master Thesis @ University of Patras</h2>
 
 <p>
   Barcodes technology is used for data encoding in many fields for quite some time now. Barcodes are divided in two main categories, 
