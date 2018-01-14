@@ -10,7 +10,6 @@
 
 - [GitHub site](https://dimkatsi91.github.io/Master-Thesis/)
 
------------------------------------------------------------------------------------------------------------------------------
 > <h2>Electronics and Information Processing Master Thesis @ University of Patras</h2>
 
 <p>
