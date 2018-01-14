@@ -4,11 +4,11 @@
 
 - Period: 2016 November - 2017 June
 
-- [Nemertes_site](http://nemertes.lis.upatras.gr/jspui/handle/10889/10691)
+- [Nemertes University of Patras thesis material](http://nemertes.lis.upatras.gr/jspui/handle/10889/10691)
 
 - Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
 
-- [Thesis_site](https://dimkatsi91.github.io/Master-Thesis/) 
+- [Thesis GitHub site](https://dimkatsi91.github.io/Master-Thesis/) 
 
 -----------------------------------------------------------------------------------------------------------------------------
 Electronics and Information Processing Master Thesis @ University of Patras
