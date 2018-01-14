@@ -4,6 +4,7 @@ clear
 printf "\n"
 exec &>>log.txt
 
+# Raspberry Camera open & capture image
 raspistill -o qr.png -w 320 -h 240
 
 cd /home/pi/Desktop/final
