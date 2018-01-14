@@ -1,14 +1,14 @@
 <h1> Master Thesis </h1>
 
-<h5> MSc "Electronics & Information Processing", University of Patras, Greece </h5>
+<h5> MSc "Electronics & Information Processing", University of Patras, Greece
 
-<h5> Period: 2016 November - 2017 June </h5>
+Period: 2016 November - 2017 June
 
-<h5> [Nemertes University of Patras Thesis material](http://nemertes.lis.upatras.gr/jspui/handle/10889/10691) </h5>
+[Nemertes University of Patras Thesis material](http://nemertes.lis.upatras.gr/jspui/handle/10889/10691)
 
-<h5> Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)" </h5>
+Title: "Design &amp; Implementation of a digital processing system for QR bar-codes (ISO/IEC 18004)"
 
-<h5> [GitHub site](https://dimkatsi91.github.io/Master-Thesis/) </h5>
+[GitHub site](https://dimkatsi91.github.io/Master-Thesis/) </h5>
 
 -----------------------------------------------------------------------------------------------------------------------------
 <h2>Electronics and Information Processing Master Thesis @ University of Patras</h2>
