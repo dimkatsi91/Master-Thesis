@@ -1,4 +1,4 @@
-# Master Thesis 
+## Master Thesis 
  
 - MSc "Electronics & Information Processing", University of Patras, Greece
 
