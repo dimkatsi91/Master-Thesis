@@ -1,4 +1,4 @@
-<h1> Master Thesis </h1>
+<h2> Master Thesis </h2>
 
 - MSc "Electronics & Information Processing", University of Patras, Greece
 
@@ -11,7 +11,7 @@
 - [GitHub site](https://dimkatsi91.github.io/Master-Thesis/)
 
 -----------------------------------------------------------------------------------------------------------------------------
-<h2>Electronics and Information Processing Master Thesis @ University of Patras</h2>
+<h3>Electronics and Information Processing Master Thesis @ University of Patras</h3>
 
 <p>
   Barcodes technology is used for data encoding in many fields for quite some time now. Barcodes are divided in two main categories, 
