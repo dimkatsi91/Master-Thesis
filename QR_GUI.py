@@ -8,6 +8,7 @@ from Tkinter import *
 from PIL import Image, ImageTk
 from PIL import *
 
+
 class QR_GUI:
     def __init__(self, root):
         self.root=root
