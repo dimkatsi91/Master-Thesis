@@ -26,3 +26,20 @@ in the previously mentioned standard of Denso Wave company. The code for QR bar-
 (OOP) and the overall system was implemented in a Raspberry Pi 3 platform that was controlled through a GUI using TKinter, 
 Python's standard library for GUI development.
   </p>
+
+ - [x] Alphanumeric Mode Example:
+ 
+ ![Alphanumeric](https://github.com/dimkatsi91/Master-Thesis/blob/master/scen_1.png)
+ 
+  - [x] Alphanumeric Mode with Correction Example:
+  
+  ![alpha with correction](https://github.com/dimkatsi91/Master-Thesis/blob/master/scen_2.png)
+  
+  - [x] Out of RS Correction Decode Capabilities Example:
+  
+  ![abort_example](https://github.com/dimkatsi91/Master-Thesis/blob/master/scen_3.png)
+  
+  - [x] Bytes Mode Example:
+  
+  ![bytes](https://github.com/dimkatsi91/Master-Thesis/blob/master/bytes_mode.png)
+  
